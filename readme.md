@@ -9,7 +9,7 @@ VGGNet and ResNet for Classifying Butterfly & Moth Images.
 ## Instructions
 #### Environment setup
 ```bash
-pip install pandas matplotlib tensorboard
+pip install pandas matplotlib tensorboard pytz tqdm
 pip install torch torchvision torchaudio
 ```
 
